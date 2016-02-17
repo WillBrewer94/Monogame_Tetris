@@ -1,0 +1,54 @@
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\Tetris.exe
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\Tetris.pdb
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+c:\users\willb\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Windows\Debug\Content\redsquare.xnb
+C:\Users\WillB\Desktop\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\WillB\Desktop\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\Content\redsquare.xnb
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\Tetris.exe
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\Tetris.pdb
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\WillB\Desktop\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Will\Downloads\Tetris-2015-08-27\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Will\Downloads\Tetris-2015-08-27\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
